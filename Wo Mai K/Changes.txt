@@ -1,0 +1,20 @@
+texture height 64 > 32, texture resized to prevent extra colision area.
+
+almost every file have modification. only file not change (window, frame timer).
+
+spaceship is empty just ignore.
+
+
+//problems//
+platform 
+during top collision, must press a or d and space to jump.
+bottom collision like da bian.
+side collision can climb if is not leg touching ground.
+
+menu 
+have computer original mouse button.
+game mouse not 100% following computer mouse.
+sometimes pink screen and unable to escape
+
+doing level 1 to level 2 is milita
+but level 3 using spaceship
